@@ -23,10 +23,3 @@ function insertionSort(array){
     }
     return sorted
 }
-
-
-
-// let array1 = [2,3,4,5,6,7]
-// let array2 = [ 3, 2, 4, 5, 6, 7 ]
-
-// findMinAndRemove(array1)
